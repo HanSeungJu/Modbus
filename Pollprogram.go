@@ -334,7 +334,7 @@ func Error(){
 	println("-------------------------------------")
 	fmt.Println("error")
 	println("-------------------------------------")
-	fmt.Println("You entered it iolncorrectly.\nReturn to the Output Coils menu.")
+	fmt.Println("You entered it iolncorrectly.")
 	println("-------------------------------------\n\n\n")
 	fmt.Print("1 : Back\n","2 : Main menu\n\n\n")
 	fmt.Print("Select number Enter:")
